@@ -1,12 +1,16 @@
-
 @extends('layout.main')
 @section('content')
 <!-- cards -->
 <div class="w-full px-6 py-6 mx-auto">
   <!-- row 1 -->
   <div class="flex flex-wrap -mx-3">
-   <h1>Produk</h1>
-
+   <h1>Biodata</h1>
+  </div>
+  <div><h5>Salam Sapa</h5></div>
+  <a>
+    Halo saya Restu Moita Putri
+    Saya seorang mahasiswa Jurusan Sistem Informasi
+  </a>
   <footer class="pt-4">
     <div class="w-full px-6 mx-auto">
       <div class="flex flex-wrap items-center -mx-3 lg:justify-between">
